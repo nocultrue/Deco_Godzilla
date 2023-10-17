@@ -30,4 +30,5 @@ eval类型都这样
 
 
 **有问题的话提issue或者加群交流**
-![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/8f2e5443-ec5d-4420-9dbf-eb5b131981b7)
+qq:
+![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/be27bfa1-7283-4217-bd95-38d6139cd1df)
