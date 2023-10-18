@@ -27,6 +27,22 @@ eval类型都这样
 响应解密（响应所有的值）：
 
 ![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/686962a5-442f-4d86-9913-1ae677ce9470)
+**3.举例-php_xor_base64**
+不输入前面的pass
+
+获取pass和key
+
+![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/db03bee0-9d41-45fb-a0a7-9497bb6f3210)
+
+
+请求解密（pass 后面的值）
+
+![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/a89960f1-ef86-4886-ac41-04b25545fc47)
+
+
+响应解密（响应全部部分）：
+
+![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/40532703-2895-474d-8261-85174146b122)
 
 
 **有问题的话提issue或者加群交流**
